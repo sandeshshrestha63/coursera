@@ -1,0 +1,37 @@
+body {
+  font-size: 16px;
+  color: #fff;
+  background-color: #61122f;
+  font-family: 'Oxygen', sans-serif;
+}
+
+#header-nav {
+	/*background-color: green;*/
+	border-radius: 0;
+	border: 0; 
+
+}
+
+.navbar-brand {
+	padding-top: 25px;
+}
+
+.navbar-brand h1 {
+	margin-top: -20px;
+	margin-bottom: 0;
+}
+
+#title{
+	text-align: center;
+}
+section{
+	background-color: grey;
+	color: white;
+	margin: 15px;
+}
+#food-title
+{
+	text-align: center;
+	font-size: 25px;
+
+}
